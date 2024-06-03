@@ -26,6 +26,7 @@ using ordinal encode for converting categorical variable into numerical variable
 
 **step2__init__ method**
 *Initializes the list of models.Splits the dataset into training and testing sets.train_and_evaluate_model function:
+
 **Trains a given model**
 Predicts the target values for both training and testing sets.
 Calculates and returns the evaluation metrics.
